@@ -11,8 +11,6 @@ This is real commercial data, it has been anonymised, and references to the comp
 
 ![image](https://github.com/Beto-Amaral/SQL_EDA/assets/46849631/e8899177-4fbf-49cf-82c8-be02cdba996a)
 
-Sources: kaggle.com and towardsdatascience.com
-
 Conclusions and Recomendations:
 
 Query 1: Count and % of orders purchased in Jan18 with a 5 review score.
@@ -32,3 +30,5 @@ This query calculates the delivery success rate by state, providing insights int
 
 Recommendation: Based on this query, you can identify states with high delivery success rates and states with lower rates. This can help direct efforts towards improving logistics efficiency in areas performing below average, ensuring a better customer experience and avoiding delivery issues. 
 Additionally, this information can be valuable for negotiations with logistics partners and optimizing the geographical distribution of distribution centers.
+
+Sources: kaggle.com and towardsdatascience.com
